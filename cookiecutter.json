@@ -1,0 +1,9 @@
+{
+    "project_name": "Cook It",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_description" : "",
+    "package_version" : "",
+    "author_name" : "",
+    "author_email" : "",
+    "project_github_url" : ""
+}
